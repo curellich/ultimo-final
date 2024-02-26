@@ -1,17 +1,9 @@
 
-¢
-java:S1192"„Define a constant instead of duplicating this literal "-------------------------------------------------------------------" 4 times.(×¸†¨8¬ÃŒ«Ş1
 h
-java:S1192"LDefine a constant instead of duplicating this literal "Desconocido" 3 times.(»È¹8¬ÃŒ«Ş1
+java:S1192"LDefine a constant instead of duplicating this literal "Desconocido" 3 times.(»È¹8Æò®¬Ş1
 h
-java:S1192"FDefine a constant instead of duplicating this literal "Drama" 3 times.(’áŠ¨úÿÿÿÿ8¬ÃŒ«Ş1
-G	java:S106"+Replace this use of System.out by a logger.(  ©ã8±ÃŒ«Ş1
-G	java:S106"+Replace this use of System.out by a logger.(×¸†¨8±ÃŒ«Ş1
-G	java:S106 "+Replace this use of System.out by a logger.(©¶ºŞ8²ÃŒ«Ş1
-G	java:S106!"+Replace this use of System.out by a logger.(×¸†¨8²ÃŒ«Ş1
-G	java:S106&"+Replace this use of System.out by a logger.(Ö•Ä8²ÃŒ«Ş1
-G	java:S106'"+Replace this use of System.out by a logger.(×¸†¨8²ÃŒ«Ş1
-L	java:S106*"+Replace this use of System.out by a logger.(ƒ“¸ğıÿÿÿÿ8²ÃŒ«Ş1
-G	java:S106+"+Replace this use of System.out by a logger.(×¸†¨8²ÃŒ«Ş1
-Q
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8²ÃŒ«Ş1
+java:S1192"FDefine a constant instead of duplicating this literal "Drama" 3 times.(’áŠ¨úÿÿÿÿ8Æò®¬Ş1
+]
+java:S1128";Remove this unused import 'ar.edu.undef.fie.domain.Client'.(¨Ñ¹Ğûÿÿÿÿ8íù²¬Ş1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8­Çƒ¬Ş1

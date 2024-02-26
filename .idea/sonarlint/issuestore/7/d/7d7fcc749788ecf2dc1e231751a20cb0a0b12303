@@ -1,0 +1,16 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ñùÕé8”±«¬Ş1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÖ øÿÿÿÿ8”±«¬Ş1
+L	java:S106"+Replace this use of System.out by a logger.(³Ä½‹øÿÿÿÿ8•±«¬Ş1
+G	java:S106"+Replace this use of System.out by a logger.(ıÅğ¬8•±«¬Ş1
+L	java:S106"+Replace this use of System.out by a logger.(ÊĞÜıÿÿÿÿ8•±«¬Ş1
+L	java:S106"+Replace this use of System.out by a logger.(¾€¹úÿÿÿÿ8•±«¬Ş1
+m	java:S128:"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8”í­¬Ş1
+>	java:S131"""Add a default case to this switch.(Î‡ôâ8–±«¬Ş1
+G	java:S106$"+Replace this use of System.out by a logger.(‹¢¶·8–±«¬Ş1
+G	java:S106&"+Replace this use of System.out by a logger.(¬óÏÉ8–±«¬Ş1
+G	java:S106("+Replace this use of System.out by a logger.(”ùƒ†8–±«¬Ş1
+G	java:S106*"+Replace this use of System.out by a logger.(…¾¼ª8–±«¬Ş1
+L	java:S106/"+Replace this use of System.out by a logger.(Õ½öñúÿÿÿÿ8–±«¬Ş1
+G	java:S1062"+Replace this use of System.out by a logger.(»å†8—±«¬Ş1
+G	java:S106<"+Replace this use of System.out by a logger.(»å†8—±«¬Ş1

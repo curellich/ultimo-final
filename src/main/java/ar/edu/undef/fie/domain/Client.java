@@ -26,4 +26,12 @@ public class Client {
             System.out.println(order.toString());
         }
     }
+
+    @Override
+    public String toString() {
+        return "Client{" +
+                "name='" + name + '\'' +
+                ", dni='" + dni + '\'' +
+                '}';
+    }
 }
