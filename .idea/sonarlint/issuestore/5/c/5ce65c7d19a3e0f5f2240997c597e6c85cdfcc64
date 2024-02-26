@@ -1,2 +1,9 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+h
+java:S1192"LDefine a constant instead of duplicating this literal "Desconocido" 3 times.(»È¹8ž°àªÞ1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Drama" 3 times.(’áŠ¨úÿÿÿÿ8ž°àªÞ1
+G	java:S106"+Replace this use of System.out by a logger.(  ©ã8¥¼ãªÞ1
+G	java:S106"+Replace this use of System.out by a logger.(×¸†¨8”¾æªÞ1
+G	java:S106"+Replace this use of System.out by a logger.(©¶ºÞ8í¿íªÞ1
+G	java:S106"+Replace this use of System.out by a logger.(×¸†¨8í¿íªÞ1
