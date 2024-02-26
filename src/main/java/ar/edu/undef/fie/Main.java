@@ -3,6 +3,8 @@ package ar.edu.undef.fie;
 import ar.edu.undef.fie.domain.Client;
 import ar.edu.undef.fie.domain.Librabry;
 
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -31,8 +33,15 @@ public class Main {
         System.out.println("-------------------------------------------------------------------");
         jorge.displayOrders();
 
-        //Requerimiento 5 actualizar inventario
+
+        //Requerimiento 5 actualizar inventario,
+        System.out.println("\nRequerimiento 5 actualizar inventario, agrego 10 a 50 sombras");
+        System.out.println("-------------------------------------------------------------------");
         ateneo.updateInvertory("50 sombras de Gray", 10, "add");
+
+        System.out.println("\nMuestro la actualizacion");
+        System.out.println("-------------------------------------------------------------------");
+        ateneo.displayInventory();
 
 
 
